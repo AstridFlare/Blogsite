@@ -19,8 +19,8 @@ export default class Navbar extends Component {
 				<div className="navbar-fixed">
 					<nav className="nav-wrapper black">
 						<div className="container">
-							<a href="/" className="brand-logo">
-								ACUSIO
+							<a href="/" className="brand-logo ">
+								BLOGSITE
 							</a>
 							<a href="/" className="sidenav-trigger" data-target="mobile-links">
 								<i className="material-icons">menu</i>
@@ -56,12 +56,12 @@ export default class Navbar extends Component {
 				<ul className="sidenav black " id="mobile-links">
 					<div className="center">
 						<a href="/" className="center">
-							<img src="images/logo.png" alt="logo" style={{ width: 100 }} />
+							<img src="favicon.png" alt="logo" style={{ width: 100 }} />
 						</a>
 					</div>
 					<li className="bold center white-text">
 						<hr />
-						Acusio Technologies
+						Blogsite
 					</li>
 					<li>
 						<a className="white-text" href="/">
