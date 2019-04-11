@@ -5,6 +5,7 @@
   "dependencies": {
     "firebase": "^5.9.3",
     "materialize-css": "^1.0.0",
+    "moment": "^2.24.0",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-pure-lifecycle": "^3.0.0",
