@@ -2,7 +2,7 @@
 
 ## Check out the live version: https://blogsite-portfolio.firebaseapp.com/signin
 
-***
+
 ## Dummy Login Info: 
 ### - Username: test@test.com
 ### - Password: test123
