@@ -11,5 +11,5 @@
 ![alt text](https://github.com/AstridFlare/Blogsite/blob/master/public/images/WELCOME.PNG "Snapshot of Sign Up Screen")
 ***
 
-## Check out the live version: 
+## Check out the live version: https://blogsite-portfolio.firebaseapp.com/signin
 
