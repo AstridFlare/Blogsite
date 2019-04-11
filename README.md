@@ -1,6 +1,6 @@
 # A blogsite using REACT / REDUX & FIREBASE
 
-## Check out the live version: https://blogsite-portfolio.firebaseapp.com/signin
+### Check out the live version: https://blogsite-portfolio.firebaseapp.com/signin
 
 
 ## Dummy Login Info: 
