@@ -2,9 +2,9 @@
 
 ***
 ## Dummy Login Info: 
-###- Username: test@test.com
-###- Password: test123
-###-Astrid Flare :)
+### - Username: test@test.com
+### - Password: test123
+### -Astrid Flare :)
 ***
 
 ***
